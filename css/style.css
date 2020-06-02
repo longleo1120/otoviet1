@@ -1,0 +1,188 @@
+body{
+  background-color: #ebebeb !important;
+}
+.block-left {
+  float: left;
+  width: 900px;
+  margin-bottom: 15px;
+  border-radius: 3px;
+  padding-top: 63px;
+}
+.header a{
+  color: white !important;
+
+}
+.block-right {
+  float: right;
+  padding-top: 63px;
+  margin-left: 20px;
+  /*    width: 280px;
+  */
+  border-radius: 3px;
+}
+
+.search-container {
+  padding: 15px;
+  min-height: 425px;
+  background: #fff;
+  margin-bottom: 16px;
+  border-radius: 2px;
+}
+
+.block-search {
+  background: #fff;
+  padding: 10px 15px;
+  padding-bottom: 0;
+  margin-bottom: 10px;
+  padding-top: 10px;
+}
+
+.car-items {
+  background: #fff;
+  height: 187px;
+  margin-bottom: 15px;
+  position: relative;
+}
+.car-items .car-image {
+  width: 280px;
+  height: 187px;
+  float: left;
+  position: relative;
+}
+.car-items .car-items-content {
+  padding: 15px;
+  height: 208px;
+  margin-left: 280px;
+}
+.car-items .car-items-content .car-items-content-title {
+  margin-right: 50px;
+  height: 25px;
+}
+
+.block-paginate {
+  padding: 15px;
+  background: #fff;
+  margin-bottom: 15px;
+}
+
+.widget-white {
+  background: #fff;
+  padding: 15px;
+  padding-top: 0;
+  border-radius: 3px;
+}
+
+.footer {
+  clear: both;
+  background: #005A9E !important;
+}
+
+.footer-content {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #eee;
+}
+
+.breadcrumb {
+  background-color: white !important;
+}
+
+.breadcrumb-block {
+  background-color: white;
+  margin-bottom: 15px;
+  heigh: 50px;
+  display: flex;
+  align-items: center;
+}
+.breadcrumb-block .left {
+  display: inline-block;
+}
+
+.search-breadcrumb {
+  background-color: #white;
+  margin: 0;
+  padding: 0;
+}
+
+.car-info-block {
+  background-color: white;
+  padding: 15px;
+  font-size: 14px;
+}
+
+.car-info-detail {
+  margin-top: 15px;
+}
+
+.car-info-detail-left {
+  width: 630px;
+  padding: 0 15px;
+}
+.car-info-detail-left img{
+  display: block;
+  height: auto;
+  width: 630px;
+}
+.car-info-detail-right {
+  width: 240px;
+}
+
+.table-info-car {
+  width: 100%;
+}
+.table-info-car .td {
+  padding: 5px 10px;
+  font-size: 13px;
+}
+
+.table-info-car-box {
+  margin: 0;
+}
+
+.p-0 {
+  padding: 0 !important;
+}
+
+.car-info-description {
+  margin-top: 20px;
+}
+
+.modal-header {
+  text-align: center;
+  position: relative;
+  display: block !important;
+}
+
+.list-car {
+  background-color: white;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.card-deck {
+  margin: 5px;
+}
+.card-deck .card{
+
+}
+.top1{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.dangkitin{
+  padding-top: 10px;
+  margin-top: 20px;
+  background-color: white;
+  padding-left: 5px;
+  padding-bottom: 10px;
+}
+
+
+
+
+.searchtindang{
+  background-color: #fff;
+  padding:10px 10px 10px 10px;
+  margin-bottom: 10px;
+}
